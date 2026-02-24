@@ -1,5 +1,5 @@
 {
-    "name": "Discord Onyx (Swapped Hierarchy)",
+    "name": "Discord Onyx",
     "is_dark": true,
     "colors": {
         "accent-color": "#5865f2",
@@ -9,7 +9,7 @@
         "alert": "#faa81ad9",
 
         "sidebar-color": "#070709",
-        "roomlist-background-color": "#070709",
+        "roomlist-background-color": "#0f0f0f",
         "roomlist-text-color": "#e0e0e0",
         "roomlist-text-secondary-color": "#a0a0a0",
         "roomlist-highlights-color": "#ffffff0f",
