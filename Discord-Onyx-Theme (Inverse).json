@@ -1,0 +1,57 @@
+{
+    "name": "Discord Onyx (inverse)",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#5865f2",
+        "accent": "#5865f2",
+        "primary-color": "#5865f2",
+        "warning-color": "#faa81ad9",
+        "alert": "#faa81ad9",
+
+        "sidebar-color": "#0f0f0f",
+        "roomlist-background-color": "#070709",
+        "roomlist-text-color": "#e0e0e0",
+        "roomlist-text-secondary-color": "#a0a0a0",
+        "roomlist-highlights-color": "#ffffff0f",
+        "roomlist-separator-color": "#1a1a1a",
+
+        "timeline-background-color": "#000000",
+        "timeline-text-color": "#e0e0e0",
+        "secondary-content": "#e0e0e0",
+        "tertiary-content": "#e0e0e0",
+        "timeline-text-secondary-color": "#b0b0b0",
+        "timeline-highlights-color": "#ffffff08",
+
+        "reaction-row-button-selected-bg-color": "#4752c4",
+        "menu-selected-color": "#4752c4",
+        "focus-bg-color": "#4752c4",
+        "room-highlight-color": "#4752c4",
+        "other-user-pill-bg-color": "#4752c4",
+        "togglesw-off-color": "#4f545c"
+    },
+    "compound": {
+        "--cpd-color-theme-bg": "#000000",
+        "--cpd-color-bg-canvas-default": "#070709",
+        "--cpd-color-bg-subtle-secondary": "#0f0f0f",
+        "--cpd-color-bg-subtle-primary": "#1a1a1a",
+        "--cpd-color-bg-action-primary-rest": "#e0e0e0",
+        "--cpd-color-bg-action-secondary-rest": "#121212",
+        "--cpd-color-bg-critical-primary": "#ed4245",
+        "--cpd-color-bg-critical-subtle": "#3d1f20",
+        "--cpd-color-bg-critical-hovered": "#ed4245",
+        "--cpd-color-bg-accent-rest": "#57f287",
+        "--cpd-color-text-primary": "#e0e0e0",
+        "--cpd-color-text-secondary": "#b0b0b0",
+        "--cpd-color-text-action-accent": "#b0b0b0",
+        "--cpd-color-text-critical-primary": "#ed4245",
+        "--cpd-color-text-success-primary": "#57f287",
+        "--cpd-color-icon-primary": "#e0e0e0",
+        "--cpd-color-icon-secondary": "#e0e0e0",
+        "--cpd-color-icon-tertiary": "#909090",
+        "--cpd-color-icon-accent-tertiary": "#57f287",
+        "--cpd-color-border-interactive-primary": "#333333",
+        "--cpd-color-border-interactive-secondary": "#333333",
+        "--cpd-color-border-critical-primary": "#ed4245",
+        "--cpd-color-border-success-subtle": "#57f287"
+    }
+}
